@@ -29,6 +29,6 @@ Nothing when the session went as expected, - for when I underperformed, + for wh
 If your tracked activity has some internal time frame, that’s what the TRK column is for.
 Think time since injury for rehabilitation, which phase in your periodisation plan, how long until the 5k you’re signed up for, … or just use it to place a satisfying big check mark for each day you’ve been sticking to the plan.
 
-Once the sheet is filled, write down a couple of points that came up in these six weeks.
+Once the sheet is filled, write down a couple of points that came up in these six weeks in the NOTES column.
 Flexibility gained, weights increased, average times improved, new exercises that worked or didn’t work, changes to the plan – think big picture things for the time frame logged.
 
