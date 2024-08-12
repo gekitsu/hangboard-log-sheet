@@ -12,7 +12,7 @@ It’s also just about what fits on a single sheet of paper when I want lines ta
 
 ## How to Use
 
-There’s no real magic to it, but here’s how I though this up for me:
+There’s no real magic to it, but here’s how I thought this up for me:
 Print it out (A4 paper only for now, sorry Americans and other people subjected to their paper formats) and fill in some fields.
 
 * DATE columns: For each line, month and day. (I use an abridged ISO-8601 date: mm-dd)
